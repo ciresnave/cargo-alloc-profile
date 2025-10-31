@@ -1,6 +1,6 @@
 [package]
     authors     = ["Eric Evans <ciresnave@gmail.com>"]
-    categories  = ["development-tools", "profiling"]
+    categories  = ["development-tools", "command-line-utilities"]
     description = "A cargo subcommand for profiling heap allocations in Rust programs"
     edition     = "2024"
     keywords    = ["allocations", "cargo", "heap", "memory", "profiling"]
