@@ -1,0 +1,23 @@
+/target
+/Cargo.lock
+**/*.rs.bk
+*.pdb
+.DS_Store
+
+# Profiling output files
+*.profraw
+*.profdata
+baseline.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
